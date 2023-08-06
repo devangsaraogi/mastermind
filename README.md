@@ -1,6 +1,6 @@
 ![MasterMind GIF][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/devangsaraogi/mastermind/blob/main/video/MMind.gif "Logo Title Text 2"
 
 # MasterMind - The Classic Board Game
 The objective of __MASTERMIND__ is to guess a secret code consisting of a series of 4 colored pegs. You can play either as a CodeBraker or a CodeMaker but in this rendition of the game, you can only play as the CodeBraker. 
