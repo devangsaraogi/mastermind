@@ -1,25 +1,25 @@
 # MasterMind - The Classic Board Game
-The object of MASTERMIND is to guess a secret code consisting of a series of 4 colored pegs. You can play either as a CodeBraker or a CodeMaker but in this rendition of the game, you can only play as the CodeBraker. 
+The objective of MASTERMIND is to guess a secret code consisting of a series of 4 colored pegs. You can play either as a CodeBraker or a CodeMaker but in this rendition of the game, you can only play as the CodeBraker. 
 
 ## The Game
 
-- The objective is to crack the sequence of colours set randomly by the game
-- There are 6 colors which could be a part of the sequence Red, Blue, Purple, White, Green and Yellow
-- There is a feedback box, which helps the user guess the sequence of colours
+- There are 6 colours which form a 4 colour sequence - Red, Blue, Purple, White, Green, and Yellow.
+- You have 10 attempts to unravel the sequence.
+- For each attempt, enter your chosen color sequence and verify.
+- Remember, you must enter a sequence before attempting to decode.
+- If you're unable to crack the code within 10 attempts, the sequence will be unveiled, and you'll be defeated.
+- Crack the code in 10 attempts or less, and you'll achieve victory.
 
-## The Rules
+### Decoding Feedback
+- Star (*): Correct color in the correct position.
+- Cross (x): Correct color in the wrong position.
+- Zero (0): No correct colors.
 
-- The user is given 10 attempts to decode the sequence
-  - Every attempt the player needs to enter the sequence and check if they have entered the right sequence
-  - The player is not allowed to decode their sequence without first entering the sequence
-  - If the user fails to guess the sequence in 10 attempts, they lose and the sequence is revealed
-  - If the user cracks the code within 10 attempts, they win the game.
--Feedback Box
-  - A star (*) - denotes a correct colour in the correct postion
-  - A cross (x) - denotes a correct colour in the wrong position
-  - A zero (0) - denotes no correct colours
-- If the player wants to give up, they can reveal the sequence
+__Giving Up?__ You can reveal the sequence if you're ready to concede the challenge.
+
+Get ready to exercise your mind and unveil the mystery of the sequence. Are you prepared for the ultimate Mastermind Challenge?
 
 ## Demo
 
 ## Acknowledgements
+This project was made as a part of the Python for Computational Problem Solving Laboratory Course (UE20CS102) at PES University.
