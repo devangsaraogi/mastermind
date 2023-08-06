@@ -1,9 +1,8 @@
 # MasterMind - The Classic Board Game
-The objective of MASTERMIND is to guess a secret code consisting of a series of 4 colored pegs. You can play either as a CodeBraker or a CodeMaker but in this rendition of the game, you can only play as the CodeBraker. 
+The objective of __MASTERMIND__ is to guess a secret code consisting of a series of 4 colored pegs. You can play either as a CodeBraker or a CodeMaker but in this rendition of the game, you can only play as the CodeBraker. 
 
 ## The Game
-
-- There are 6 colours which form a 4 colour sequence - Red, Blue, Purple, White, Green, and Yellow.
+- There are 6 colours which form a 4 colour sequence - __Red__, __Blue__, __Purple__, __White__, __Green__, and __Yellow__.
 - You have 10 attempts to unravel the sequence.
 - For each attempt, enter your chosen color sequence and verify.
 - Remember, you must enter a sequence before attempting to decode.
@@ -19,7 +18,7 @@ The objective of MASTERMIND is to guess a secret code consisting of a series of 
 You can reveal the sequence if you're ready to concede the challenge.
 
 ## Demo
-
+Coming Soon...
 
 __Get ready to exercise your mind and unveil the mystery of the sequence. Are you prepared for the ultimate Mastermind Challenge?__
 
