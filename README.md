@@ -1,6 +1,3 @@
-![MMind](https://github.com/devangsaraogi/mastermind/assets/70952871/7b728fb4-6cac-499d-bb7d-3a7475107014)
-
-
 # MasterMind - The Classic Board Game
 The objective of __MASTERMIND__ is to guess a secret code consisting of a series of 4 colored pegs. You can play either as a CodeBraker or a CodeMaker but in this rendition of the game, you can only play as the CodeBraker. 
 
