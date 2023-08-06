@@ -15,11 +15,13 @@ The objective of MASTERMIND is to guess a secret code consisting of a series of 
 - Cross (x): Correct color in the wrong position.
 - Zero (0): No correct colors.
 
-__Giving Up?__ You can reveal the sequence if you're ready to concede the challenge.
-
-Get ready to exercise your mind and unveil the mystery of the sequence. Are you prepared for the ultimate Mastermind Challenge?
+### Giving Up?
+You can reveal the sequence if you're ready to concede the challenge.
 
 ## Demo
+
+
+__Get ready to exercise your mind and unveil the mystery of the sequence. Are you prepared for the ultimate Mastermind Challenge?__
 
 ## Acknowledgements
 This project was made as a part of the Python for Computational Problem Solving Laboratory Course (UE20CS102) at PES University.
